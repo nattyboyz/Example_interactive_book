@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 5feb9ed9431e68041ab08b2b88642a7d
+timeCreated: 1453452916
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sticker_Template2_0
+    21300002: Sticker_Template2_1
+    21300004: Sticker_Template2_2
+    21300006: Sticker_Template2_3
+    21300008: Sticker_Template2_4
+    21300010: Sticker_Template2_5
+    21300012: Sticker_Template2_6
+    21300014: Sticker_Template2_7
+    21300016: Sticker_Template2_8
+    21300018: Sticker_Template2_9
+    21300020: Sticker_Template2_10
+    21300022: Sticker_Template2_11
+    21300024: Sticker_Template2_12
+    21300026: Sticker_Template2_13
+    21300028: Sticker_Template2_14
+    21300030: Sticker_Template2_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sticker_Template2_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 766
+        width: 247
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.5, y: -6}
+        - {x: 109.5, y: 61}
+        - {x: 102.5, y: 93}
+        - {x: 72.5, y: 107}
+        - {x: -5.5, y: 107}
+        - {x: -38.5, y: 63}
+        - {x: -83.5, y: 58}
+        - {x: -104.5, y: 48}
+        - {x: -123.5, y: -14}
+        - {x: -123.5, y: -107}
+        - {x: 94.5, y: -107}
+        - {x: 123.5, y: -65}
+        - {x: 123.5, y: -32}
+    - name: Sticker_Template2_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 756
+        width: 254
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 120}
+        - {x: -69, y: 120}
+        - {x: -112, y: 92}
+        - {x: -117, y: 56}
+        - {x: -117, y: -34}
+        - {x: -41, y: -86}
+        - {x: 10, y: -72}
+        - {x: 24, y: -67}
+        - {x: 15, y: -77}
+        - {x: 3, y: -105}
+        - {x: 27, y: -120}
+        - {x: 79, y: -120}
+        - {x: 124, y: -70}
+        - {x: 124, y: -4}
+        - {x: 51, y: 111}
+      - - {x: 124, y: -107}
+        - {x: 126, y: -109}
+        - {x: 127, y: -109}
+        - {x: 127, y: -104}
+        - {x: 125, y: -104}
+      - - {x: 120, y: -80}
+        - {x: 120, y: -86}
+        - {x: 122, y: -87}
+        - {x: 125, y: -87}
+        - {x: 127, y: -84}
+        - {x: 127, y: -74}
+        - {x: 126, y: -74}
+      - - {x: -127, y: -65}
+        - {x: -124, y: -64}
+        - {x: -124, y: -54}
+        - {x: -126, y: -52}
+        - {x: -127, y: -52}
+    - name: Sticker_Template2_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 527
+        width: 197
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.5, y: 66.5}
+        - {x: 38.5, y: 98.5}
+        - {x: -34.5, y: 98.5}
+        - {x: -66.5, y: 88.5}
+        - {x: -98.5, y: 41.5}
+        - {x: -98.5, y: -36.5}
+        - {x: -70.5, y: -80.5}
+        - {x: -42.5, y: -98.5}
+        - {x: 38.5, y: -98.5}
+        - {x: 56.5, y: -95.5}
+        - {x: 90.5, y: -54.5}
+        - {x: 98.5, y: -34.5}
+        - {x: 98.5, y: 34.5}
+    - name: Sticker_Template2_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 512
+        width: 205
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.5, y: 77.5}
+        - {x: 82.5, y: 94.5}
+        - {x: 52.5, y: 112.5}
+        - {x: -35.5, y: 112.5}
+        - {x: -100.5, y: 60.5}
+        - {x: -102.5, y: 48.5}
+        - {x: -102.5, y: -73.5}
+        - {x: -43.5, y: -112.5}
+        - {x: 12.5, y: -112.5}
+        - {x: 47.5, y: -77.5}
+        - {x: 81.5, y: -99.5}
+        - {x: 102.5, y: -52.5}
+    - name: Sticker_Template2_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 518
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 105}
+        - {x: -9, y: 108}
+        - {x: -46, y: 108}
+        - {x: -97, y: 54}
+        - {x: -103, y: 39}
+        - {x: -103, y: -27}
+        - {x: -69, y: -82}
+        - {x: -55, y: -101}
+        - {x: -7, y: -108}
+        - {x: 74, y: -108}
+        - {x: 82, y: -106}
+        - {x: 103, y: 6}
+        - {x: 103, y: 43}
+        - {x: 85, y: 53}
+    - name: Sticker_Template2_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 767
+        width: 257
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.5, y: -112.5}
+        - {x: -115.5, y: -112.5}
+        - {x: -116.5, y: -109.5}
+        - {x: -126.5, y: -107.5}
+        - {x: -127.5, y: -107.5}
+        - {x: -128.5, y: -110.5}
+      - - {x: 120.5, y: 7.5}
+        - {x: 86.5, y: 90.5}
+        - {x: 50.5, y: 112.5}
+        - {x: -57.5, y: 112.5}
+        - {x: -82.5, y: 79.5}
+        - {x: -93.5, y: 20.5}
+        - {x: -124.5, y: -48.5}
+        - {x: -128.5, y: -64.5}
+        - {x: -128.5, y: -95.5}
+        - {x: -79.5, y: -112.5}
+        - {x: 34.5, y: -112.5}
+        - {x: 116.5, y: -70.5}
+        - {x: 128.5, y: -47.5}
+        - {x: 128.5, y: -11.5}
+    - name: Sticker_Template2_6
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 876
+        width: 248
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 49.5}
+        - {x: -123, y: 17.5}
+        - {x: -124, y: 14.5}
+        - {x: -124, y: -14.5}
+        - {x: -69, y: -49.5}
+        - {x: 114, y: -49.5}
+        - {x: 124, y: -34.5}
+        - {x: 124, y: 40.5}
+        - {x: 121, y: 49.5}
+    - name: Sticker_Template2_7
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 646
+        width: 239
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100.5, y: 105.5}
+        - {x: -1.5, y: 105.5}
+        - {x: -1.5, y: 87.5}
+        - {x: -95.5, y: 7.5}
+        - {x: -103.5, y: -0.5}
+        - {x: -105.5, y: -3.5}
+        - {x: -119.5, y: -34.5}
+        - {x: -119.5, y: -66.5}
+        - {x: -118.5, y: -77.5}
+        - {x: -69.5, y: -109.5}
+        - {x: 61.5, y: -109.5}
+        - {x: 98.5, y: -101.5}
+        - {x: 119.5, y: -79.5}
+        - {x: 119.5, y: 15.5}
+      - - {x: -119.5, y: 109.5}
+        - {x: -119.5, y: 77.5}
+        - {x: -115.5, y: 77.5}
+        - {x: -109.5, y: 80.5}
+        - {x: -109.5, y: 107.5}
+        - {x: -114.5, y: 109.5}
+    - name: Sticker_Template2_8
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 421
+        width: 252
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125, y: 86}
+        - {x: 6, y: 86}
+        - {x: -106, y: 70}
+        - {x: -126, y: 55}
+        - {x: -126, y: 28}
+        - {x: -117, y: -11}
+        - {x: -56, y: -86}
+        - {x: 101, y: -86}
+        - {x: 125, y: -37}
+      - - {x: 123, y: 86}
+        - {x: 122, y: 83}
+        - {x: 125, y: 80}
+        - {x: 126, y: 80}
+        - {x: 126, y: 85}
+        - {x: 125, y: 86}
+    - name: Sticker_Template2_9
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 276
+        width: 254
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 92}
+        - {x: 39, y: 94}
+        - {x: -41, y: 94}
+        - {x: -106, y: 33}
+        - {x: -121, y: 4}
+        - {x: -121, y: -32}
+        - {x: -120, y: -46}
+        - {x: -100, y: -77}
+        - {x: -77, y: -81}
+        - {x: 6, y: -74}
+        - {x: 21, y: -94}
+        - {x: 80, y: -94}
+        - {x: 127, y: -75}
+        - {x: 127, y: 46}
+        - {x: 123, y: 74}
+      - - {x: -127, y: 74}
+        - {x: -127, y: 57}
+        - {x: -124, y: 57}
+        - {x: -123, y: 60}
+        - {x: -123, y: 73}
+        - {x: -126, y: 74}
+    - name: Sticker_Template2_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 248
+        width: 213
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.5, y: 122}
+        - {x: -52.5, y: 122}
+        - {x: -59.5, y: 114}
+        - {x: -73.5, y: 91}
+        - {x: -86.5, y: 16}
+        - {x: -106.5, y: -6}
+        - {x: -106.5, y: -62}
+        - {x: -78.5, y: -78}
+        - {x: -53.5, y: -122}
+        - {x: 65.5, y: -122}
+        - {x: 106.5, y: -75}
+        - {x: 106.5, y: 10}
+        - {x: 63.5, y: 106}
+    - name: Sticker_Template2_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 248
+        width: 260
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 122}
+        - {x: 8, y: 122}
+        - {x: -3, y: 120}
+        - {x: -13, y: 122}
+        - {x: -56, y: 122}
+        - {x: -130, y: 81}
+        - {x: -130, y: 47}
+        - {x: -73, y: 27}
+        - {x: -44, y: -65}
+        - {x: -16, y: -113}
+        - {x: 6, y: -122}
+        - {x: 50, y: -122}
+        - {x: 75, y: -68}
+        - {x: 130, y: 51}
+        - {x: 130, y: 87}
+    - name: Sticker_Template2_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 32
+        width: 262
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 53.5}
+        - {x: 77, y: 23.5}
+        - {x: 85, y: 47.5}
+        - {x: 54, y: 76.5}
+        - {x: -131, y: 76.5}
+        - {x: -131, y: -72.5}
+        - {x: -105, y: -76.5}
+        - {x: 24, y: -76.5}
+        - {x: 34, y: -75.5}
+        - {x: 131, y: -47.5}
+        - {x: 131, y: -7.5}
+        - {x: 114, y: 44.5}
+    - name: Sticker_Template2_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 11
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 65}
+        - {x: 41, y: 98}
+        - {x: -40, y: 98}
+        - {x: -64, y: 85}
+        - {x: -98, y: 44}
+        - {x: -98, y: -41}
+        - {x: -67, y: -81}
+        - {x: -39, y: -98}
+        - {x: 35, y: -98}
+        - {x: 95, y: -64}
+        - {x: 98, y: -48}
+        - {x: 98, y: 49}
+    - name: Sticker_Template2_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 11
+        width: 222
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -89}
+        - {x: 111, y: -25}
+        - {x: 23, y: 122}
+        - {x: -96, y: 122}
+        - {x: -111, y: 57}
+        - {x: -111, y: -92}
+        - {x: -72, y: -122}
+        - {x: -40, y: -122}
+        - {x: -36, y: -118}
+        - {x: -3, y: -116}
+        - {x: 69, y: -110}
+      - - {x: -101, y: 4}
+        - {x: -101, y: -49}
+        - {x: -99, y: -51}
+        - {x: -93, y: -51}
+        - {x: -93, y: 5}
+        - {x: -98, y: 5}
+    - name: Sticker_Template2_15
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 36
+        width: 253
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 43}
+        - {x: 37.5, y: 35}
+        - {x: 37.5, y: 25}
+        - {x: 40.5, y: 20}
+        - {x: 37.5, y: 18}
+        - {x: 37.5, y: 27}
+        - {x: 34.5, y: 37}
+        - {x: -21.5, y: 84}
+        - {x: -109.5, y: 84}
+        - {x: -126.5, y: 77}
+        - {x: -126.5, y: -75}
+        - {x: -101.5, y: -84}
+        - {x: 94.5, y: -84}
+        - {x: 126.5, y: -58}
+        - {x: 126.5, y: 19}
+        - {x: 59.5, y: 53}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
